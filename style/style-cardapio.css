@@ -1,6 +1,5 @@
 @font-face {
-    font-family: 'Margin';
-    src: url("../fontes/Margin\ DEMO.otf");
+    font-family: "Roboto";
     font-weight: 50;
 }
 
@@ -22,14 +21,14 @@ h1 {
     text-align: center;
     margin-top: 10px;
     margin-bottom: 10px;
-    font-family: "Margin";
+    font-family: "Roboto";
     font-size: 45px;
     letter-spacing: 4px;
     font-weight: 50;
   }
 
 h2 {
-    font-family: 'Margin';
+    font-family: 'Roboto';
     text-align: center;
     letter-spacing: 2px;
     font-weight: 50;
